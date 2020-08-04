@@ -1,3 +1,6 @@
+## Note from the author of the scripts
+All of the plots have the same data requirement initialization, so I created script, initializeDataSet.R, which is used in each of the scripts to create the data fields used in making the plots.
+
 ## Introduction
 
 This assignment uses data from
